@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/farmermotion/static/css/main.d80706f2.chunk.css",
+    "main.js": "/farmermotion/static/js/main.3b1c7bea.chunk.js",
+    "main.js.map": "/farmermotion/static/js/main.3b1c7bea.chunk.js.map",
+    "runtime-main.js": "/farmermotion/static/js/runtime-main.096c61cd.js",
+    "runtime-main.js.map": "/farmermotion/static/js/runtime-main.096c61cd.js.map",
+    "static/js/2.48bb8971.chunk.js": "/farmermotion/static/js/2.48bb8971.chunk.js",
+    "static/js/2.48bb8971.chunk.js.map": "/farmermotion/static/js/2.48bb8971.chunk.js.map",
+    "index.html": "/farmermotion/index.html",
+    "precache-manifest.3df04a60231ffe729a894d7c853b188b.js": "/farmermotion/precache-manifest.3df04a60231ffe729a894d7c853b188b.js",
+    "service-worker.js": "/farmermotion/service-worker.js",
+    "static/css/main.d80706f2.chunk.css.map": "/farmermotion/static/css/main.d80706f2.chunk.css.map",
+    "static/js/2.48bb8971.chunk.js.LICENSE.txt": "/farmermotion/static/js/2.48bb8971.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.096c61cd.js",
+    "static/js/2.48bb8971.chunk.js",
+    "static/css/main.d80706f2.chunk.css",
+    "static/js/main.3b1c7bea.chunk.js"
+  ]
+}
